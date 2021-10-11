@@ -1,2 +1,2 @@
-# 🗂️ Klausur Ordner Ersteller
+# 🗂️ KlausurOrdner-Ersteller
 Kopiert einen Aufgabenordner für eine Klausur
